@@ -11,6 +11,7 @@ export default function Automation() {
           <div className="row align-items-center g-5">
             {/* Left Text Section */}
             <div className="col-lg-6">
+              <br></br><br></br><br></br>
               <p className="text-uppercase small text-muted mb-2">
                 Our Service
               </p>
