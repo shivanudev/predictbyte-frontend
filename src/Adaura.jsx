@@ -16,6 +16,7 @@ export default function Adaura() {
           {/* Left Content */}
           <div className="col-lg-6 text-center text-lg-start">
             <h1 className="fw-bold display-5" id="inno">
+              <br></br><br></br>
               AdAura – Cross-Platform Ad Detection & Analytics<br></br>
               <span className="text-primary">
                 (Powered by PredictByte Infosoft)
