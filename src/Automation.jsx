@@ -12,6 +12,7 @@ export default function Automation() {
             {/* Left Text Section */}
             <div className="col-lg-6">
               <p className="text-uppercase small text-muted mb-2">
+                <br></br><br></br><br></br>
                 Our Service
               </p>
               <h1 className="fw-bold display-6 mb-4" style={{ color: "#000" }}>
