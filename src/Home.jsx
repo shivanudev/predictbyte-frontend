@@ -247,7 +247,7 @@ $('.cards').commentCards();
       desc: "AI automation revolutionizes workflows by using intelligent systems to perform tasks faster, reduce errors, and boost overall productivity."
     },
     {
-      title: "software Development",
+      title: "Software Development",
       img: "Untitled design (4).png",
       desc: "Software development turns innovative ideas into powerful digital solutions that streamline processes, improve efficiency, and drive business success."
     },
