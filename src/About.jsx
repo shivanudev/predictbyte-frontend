@@ -9,6 +9,7 @@ export default function About() {
         <div className="our-story-container">
           {/* <!-- Left Section --> */}
           <div className="our-story-left">
+            <br></br><br></br><br></br>
             <p className="our-story-subtitle">OUR STORY</p>
             <h2 className="our-story-title">
               Your Vision Our Expertise Your Success Get Noticed Generate <br />
